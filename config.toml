@@ -17,7 +17,7 @@ theme = "hugo-minimalist-theme"
     # Link custom assets relative to /static
     avatar = "img/profile-image.png"
     header_background = "img/desk.jpg"
-    header_title = "Customizable header title"
+    header_title = "Felix M. Brooks"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
@@ -31,7 +31,7 @@ theme = "hugo-minimalist-theme"
     # create automatically.
     twitter   = "spf13"
     facebook  = ""
-    linkedin  = "linkedIn/in/felixbrooks"
+    linkedin  = "felixbrooks"
     behance   = ""
     dribbble  = ""
     instagram = ""
